@@ -1,0 +1,6 @@
+{
+  "name": "CGU Automated Academic Work Tracker",
+  "description": "AI-powered automated academic tracker integrating WhatsApp, Gmail, Google Classroom, and Calendar with CGU master schedule, date change detection, and proactive alerts.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
